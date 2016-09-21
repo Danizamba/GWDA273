@@ -1,0 +1,271 @@
+
+
+body {
+  /*background: linear-gradient(to left, #FF512F , #DD2476);*/
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/57/0a/44/570a44eddfd1d4d54e5781869a777ac1.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+  font-family: sans-serif;
+align:center;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+
+	}
+
+
+
+
+#menu {
+	color:white;
+	position: fixed;
+	z-index: 99999999;
+	right: 0;
+	left: 0;
+	-webkit-animation-duration: 3s;
+  -webkit-animation-delay: 1s;
+  -webkit-animation-iteration-count: 1;
+
+}
+
+
+
+#logoimg menu {
+	size: 130px;
+}
+
+nav {
+
+ background-color:rgba(125, 25, 355, .65);
+	width: 1414px;
+	height: 48px;
+	padding-top: 24px;
+	margin-top: -8px;
+	text-align: center;
+	position: relative;
+	z-index: 999;
+}
+
+nav a {
+	color: whitesmoke;
+	font-size: 16px;
+	text-decoration: none;
+	padding-right: 22px;
+	padding-bottom: 5px;
+	position: relative;
+}
+
+.h2 { position: center;
+	color: white;
+	animation-duration: 10s;
+  animation-delay:1s;
+
+}
+
+.h2* {animation-duration: 10s;
+  animation-delay:1s;
+  color: white;
+}
+
+.logo {
+	position: absolute;
+	z-index: 2;
+	top: 308px;
+	left: 114px;
+}
+
+.fa{
+  color: white;
+ position: absolute; left: 29px; top: 485px;
+display: inline-block;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+left: 50%;
+padding: -20px;
+white-space: nowrap;
+z-index: 2;
+text-decoration: none;
+-webkit-transition: color 0.2s ease-out;
+transition: color 0.2s ease-out;
+-webkit-transform: translateX(-50%);
+transform: translateX(-50%);
+}
+
+.button {
+	text-decoration: none;
+	background-color: 
+#DCDCDC;
+	color: black;
+	font-size: 16px;
+	width: 87px;
+	height: 23px;
+	padding: 10px;
+	position: absolute;
+	border-radius: 20px;
+	z-index: 3;
+	top: 557px;
+	left: 675px;
+}
+
+
+.gallery {
+
+	float: left;
+  width: 900px;
+  overflow: hidden;
+  margin-top: 50%;
+  margin: 10px 0 0 0;
+  padding-left: 335px;
+  animation-duration: 3s;
+  animation-delay:1s;
+
+
+}
+
+
+.container {
+	width: 100%;
+	margin: auto;
+position: absolute;
+height: 100%;
+
+}
+
+#our-story {
+  position:center;
+	 background:linear-gradient(
+#1E90FF, 
+
+#FF4500);
+	 opacity: 0.9;
+	background-size: 1450px;
+	margin: 0 auto;
+	height: 500px;
+	overflow: hidden;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: whitesmoke;
+	-webkit-animation-duration: 5s;
+  -webkit-animation-delay: 1s;
+  -webkit-animation-iteration-count: 1;
+}
+
+
+h1, h3 {
+	font-weight: normal;
+	position: center;
+}
+
+#our-story .container1 {
+	width: 1223px;
+	margin: 55px;
+	text-align: justify;
+}
+
+#our-story h1 {
+	font-size: 40px;
+   text-decoration: none;
+}
+
+
+#our-story p {
+	font-size: 18px;
+	font-style: italic;
+  text-decoration: none;
+}
+
+#our-story button  {
+    text-decoration: none;
+	background-color: white;
+	color: #44204d;
+	font-size: 16px;
+	width: 171px;
+	height: 49px;
+	padding: 10px;
+	margin-top: 28px;
+}
+
+
+#exhibitions {
+   position:center;
+	 background:linear-gradient( #7B68EE, #98FB98);
+	 opacity: 0.9;
+
+	background-size: 1450px;
+	margin: 0 auto;
+	height: 1100px;
+	overflow: hidden;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: whitesmoke;
+	-webkit-animation-duration: 2s;
+  -webkit-animation-delay: 1s;
+  -webkit-animation-iteration-count: 1;
+  padding-bottom: 100px;
+}
+
+#exhibitions .container1 {
+	width: 1163px;
+	margin: 55px;
+	
+	opacity: 1;
+}
+
+#exhibitions h1 {
+	font-size: 40px;
+   text-decoration: none;
+}
+
+
+#exhibitions button  {
+    text-decoration: none;
+	background-color: white;
+	color: #44204d;
+	font-size: 16px;
+	width: 171px;
+	height: 49px;
+	padding: 10px;
+	margin-top: 28px;
+
+
+
+
+
+
+section {
+   background: transparent linear-gradient(90deg, rgba(82, 103, 168, 0.56) 10%, rgba(136, 86, 183, 0.47) 90%) repeat scroll 0% 0%;
+height: 250px;
+width: 100%;
+padding: 100px 0;
+  }
+  
+ section  {
+    color: #FFF;
+    border: 1px solid #FFF;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 3px;
+    margin-bottom: 20px;
+
+}
+
+#contact {
+	  color: #FFF;
+    border: 1px solid #FFF;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    align:center;
+}
+
+
+
+.info {
+ background-color:rgba(125, 25, 355, .65);
+	width: 2414px;
+	height: 48px;
+	padding-bottom: 24px;
+	margin-top: 50px;
+	text-align: center;
+	position: absolute;
+	z-index: 9999;
+}
